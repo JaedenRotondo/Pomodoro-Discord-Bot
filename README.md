@@ -27,6 +27,3 @@ Authors:
 Jason Tan (University of Guelph), 
 
 Jaeden Rotondo (Concordia University)
-# Pomodoro-Discord-Bot
-# Pomodoro-Discord-Bot
-# Pomodoro-Discord-Bot
