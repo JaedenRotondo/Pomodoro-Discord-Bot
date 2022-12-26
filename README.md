@@ -1,5 +1,4 @@
 # bcompathon-discbot
-##### Date of Last Update: 2021-07-09
 
 A Discord Bot made at University of Guelph's Bachelor of Computing "BCOMPATHON" 2021. Placed as **Honourable Mention**. 
 
